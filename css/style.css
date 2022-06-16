@@ -1,5 +1,10 @@
-.listanavegador{
-    display: flex!important;
-    flex-basis: auto;
-    justify-content: flex-end;
+.redesociales a{
+    color:#05394e;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+.footer a:hover{
+    color: black;
+    font-weight: 900;
 }
