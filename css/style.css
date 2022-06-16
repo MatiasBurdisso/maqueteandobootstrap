@@ -1,0 +1,5 @@
+.listanavegador{
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: flex-end;
+}
